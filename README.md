@@ -9,6 +9,7 @@ https://justin.abrah.ms/ // This self-taught programmer who boils complex CS stu
 
 http://oppin.co/best-of/how-to-email-recruiters-sample/ // how to email recruiters! 
 
+https://www.glassdoor.com/index.htm // Real Reviews from real software engineers
 
 # Useful SchoolRelated Links
 http://www.pugbooks.com/ // find cheap or free textbooks (searches FB and free PDF versions)
