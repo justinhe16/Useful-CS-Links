@@ -30,3 +30,5 @@ https://code.google.com/codejam/ // Code Jam is a Google-sponsored national codi
 https://www.codechef.com/ // more practice 
 
 https://codility.com // more practice 
+
+http://course.fast.ai/ // free courses on deep learning and AI
