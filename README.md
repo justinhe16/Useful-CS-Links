@@ -32,3 +32,5 @@ https://www.codechef.com/ // more practice
 https://codility.com // more practice 
 
 http://course.fast.ai/ // free courses on deep learning and AI
+
+https://openhatch.org/ // for contributions to open source code
