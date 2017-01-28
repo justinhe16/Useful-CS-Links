@@ -33,4 +33,4 @@ https://codility.com // more practice
 
 http://course.fast.ai/ // free courses on deep learning and AI
 
-https://openhatch.org/ // for contributions to open source code
+https://www.hackerearth.com/getstarted-opensource/ // guide on getting started on open source contributions; includes open hatch, mozilla, etc.
