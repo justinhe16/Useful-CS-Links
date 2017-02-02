@@ -14,6 +14,8 @@ https://www.glassdoor.com/index.htm // Real Reviews from real software engineers
 
 https://thenounproject.com/ // free (some) icons
 
+https://tympanus.net/codrops/ // the dankest CSS animations ever
+
 # Useful SchoolRelated Links
 http://www.pugbooks.com/ // find cheap or free textbooks (searches FB and free PDF versions)
 
