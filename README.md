@@ -23,6 +23,8 @@ https://www.mint.com/ // keep track of finances
 
 # Computer Science Skill Development Links
 
+https://gist.github.com/TSiege/cbb0507082bb18ff7e4b#file-the-technical-interview-cheat-sheet-md // technical interview cheatsheet
+
 https://www.hackerrank.com/ // practice problems and tutorials
 
 https://www.topcoder.com // practice problems and competition
