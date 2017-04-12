@@ -23,14 +23,14 @@ https://www.mint.com/ // keep track of finances
 
 # Useful Computer Security + CTF links (taken from a google spreadsheet from PICOCTF2017 piazza)
 Jeopardy/Wargame Sites
-https://ctftime.org/profile
-http://io.netgarage.org/
-https://w3challs.com/
-https://legitbs.net/
-http://ghostintheshellcode.com/
-http://codegate.org/
-https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project
-https://picoctf.com/
+https://ctftime.org/profile //
+http://io.netgarage.org/ //
+https://w3challs.com/ //
+https://legitbs.net/ //
+http://ghostintheshellcode.com/ //
+http://codegate.org/ //
+https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project //
+https://picoctf.com/ //
 https://hsf.csaw.io/
 http://hsctf.com/
 https://easyctf.com
