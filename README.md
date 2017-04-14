@@ -16,6 +16,8 @@ https://thenounproject.com/ // free (some) icons
 
 https://tympanus.net/codrops/ // the dankest CSS animations ever
 
+https://curl.trillworks.com/ // used to make app to make curl requests (copy curl request from network tools from inspect element)
+
 # Useful SchoolRelated Links
 http://www.pugbooks.com/ // find cheap or free textbooks (searches FB and free PDF versions)
 
